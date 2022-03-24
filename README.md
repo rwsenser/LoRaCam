@@ -1,1 +1,2 @@
-# LoRaCam
+# LoRaCam Readme
+See LoRaCamera.pdf
